@@ -1,2 +1,4 @@
 # Voice-AI
-A project, where a robot is controlled by natural human languages. An android application converts the speech to text and instructs the robot to move accordingly over Bluetooth.
+A robot controlled by natural human languages. 
+##Overview
+An android application converts the speech to text and instructs the robot to move accordingly over Bluetooth.
